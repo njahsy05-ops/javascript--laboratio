@@ -2,8 +2,8 @@
 "use strict";
 
 // Pris för en produkt och antal produkter
-const price = 100;
-const quantity = 3;
+const price = 200;
+const quantity = 4;
 
 // Beräknar totalpriset
 const totalPrice = price * quantity;
