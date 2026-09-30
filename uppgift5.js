@@ -1,8 +1,8 @@
-/* Lösning till Uppgift 5. Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 5 - skapa och manipulera en arraymed maträttar */
 "use strict";
 
 // Skapar en array med fem maträtter
-const foods = ["Pizza", "Pasta", "Sushi", "Tacos", "Hamburgare"];
+const foods = ["kebab", "Pasta", "Sushi", "Tacos", "kyckling", "Hamburgare"];
 
 // Skriver ut hela arrayen
 console.log(foods);
@@ -12,7 +12,7 @@ console.log("Första maträtten: " + foods[0]);
 console.log("Sista maträtten: " + foods[foods.length - 1]);
 
 // Lägger till en ny maträtt sist
-foods.push("Lasagne");
+foods.push("lasagne");
 
 // Tar bort den första maträtten
 foods.shift();
