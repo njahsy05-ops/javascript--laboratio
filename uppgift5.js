@@ -1,7 +1,7 @@
 /* Lösning till Uppgift 5 - skapa och manipulera en array med maträttar */
 "use strict";
 
-// Skapar en array med fem maträtter
+// Skapar en array med sex maträtter
 const foods = ["kebab", "Pasta", "Sushi", "Tacos", "kyckling", "Hamburgare"];
 
 // Skriver ut hela arrayen
