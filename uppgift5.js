@@ -1,4 +1,4 @@
-/* Lösning till Uppgift 5 - skapa och manipulera en arraymed maträttar */
+/* Lösning till Uppgift 5 - skapa och manipulera en array med maträttar */
 "use strict";
 
 // Skapar en array med fem maträtter
