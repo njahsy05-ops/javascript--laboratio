@@ -1,26 +1,26 @@
-/* Lösning till Uppgift 9. Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 9.skriver ut information om personer och kontrollerar om de är myndiga Av Njah Hmami, 2026 */
 "use strict";
 
 // Skapar en array med personer
 const people = [
     {
-        name: "Anna",
-        age: 30,
-        city: "Sundsvall"
+        name: "Lana",
+        age: 22,
+        city: "Skövde"
     },
     {
-        name: "Sofie",
-        age: 45,
-        city: "Hudiksvall"
+        name: "Ali",
+        age: 35,
+        city: "Götenborg"
     },
     {
-        name: "Markus",
-        age: 16,
-        city: "Härnösand"
+        name: "Rima",
+        age: 15,
+        city: "Borås"
     }
 ];
 
-// Funktion som skriver ut information om en person
+// Skriver ut personens namn och stad och kontrollerar om personen är myndig
 function printPerson(person) {
     if (person.age >= 18) {
         console.log(person.name + " bor i " + person.city + " och är myndig.");
@@ -29,7 +29,7 @@ function printPerson(person) {
     }
 }
 
-// Går igenom alla personer i arrayen
+// Går igenom alla personer i arrayen och anropar funktionen
 for (let i = 0; i < people.length; i++) {
     printPerson(people[i]);
 }
