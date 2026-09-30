@@ -18,3 +18,5 @@ function calculateSum(array) {
 
 // Anropar funktionen och skriver ut resultatet
 console.log("Summan är " + calculateSum(numbers));
+// Testar funktionen med en annan array med andra värden och en annan längd
+console.log("Summan är " + calculateSum([1, 2, 3]));
