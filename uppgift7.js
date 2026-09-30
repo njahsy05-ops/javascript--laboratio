@@ -1,8 +1,8 @@
-/* Lösning till Uppgift 7. Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 7.sumrar tal i en array med en funktion Av Njah Hmami, 2026 */
 "use strict";
 
 // Skapar en array med sex tal
-const numbers = [5, 7, 10, 4, 8, 8];
+const numbers = [3, 6, 9, 12, 15, 18];
 
 // Funktion som räknar ut summan av talen i en array
 function calculateSum(array) {
