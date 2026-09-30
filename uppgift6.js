@@ -1,4 +1,4 @@
-/* Lösning till Uppgift 6. arean av en rektangelmed funktion. Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 6. arean av en rektangel med funktion. Av Njah Hmami, 2026 */
 "use strict";
 
 // Funktion som räknar ut arean av en rektangel
