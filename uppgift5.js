@@ -1,4 +1,4 @@
-/* Lösning till Uppgift 5 - skapa och manipulera en array med maträttar */
+/* Lösning till Uppgift 5 - skapa och manipulera en array med maträttar av Njah Hmami, 2026 */
 "use strict";
 
 // Skapar en array med sex maträtter
