@@ -1,4 +1,4 @@
-/* Lösning till Uppgift 7.sumrar tal i en array med en funktion Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 7.summerar tal i en array med en funktion Av Njah Hmami, 2026 */
 "use strict";
 
 // Skapar en array med sex tal
