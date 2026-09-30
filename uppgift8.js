@@ -1,11 +1,11 @@
-/* Lösning till Uppgift 8. Av Njah Hmami, 2026 */
+/* Lösning till Uppgift 8. skapar ett bokobjekt och skriver ut information om boken Av Njah Hmami, 2026 */
 "use strict";
 
 // Skapar ett objekt som representerar en bok
 const book = {
-    title: "The Hobbit",
-    author: "J.R.R. Tolkien",
-    publicationYear: 1937
+    title: "Harry potter",
+    author: "J.K. Rowling",
+    publicationYear: 1997
 };
 
 // Funktion som skriver ut information om en bok
